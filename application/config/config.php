@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /*
+added comment from manoj for testing
 |--------------------------------------------------------------------------
 | Base Site URL
 |--------------------------------------------------------------------------
